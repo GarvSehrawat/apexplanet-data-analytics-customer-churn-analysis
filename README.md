@@ -771,60 +771,7 @@ The project also showcases practical experience with modern data analytics tools
 
 # 👩‍💻 Author
 
-## Guttula Sai Priya
-
-**Bachelor of Technology (B.Tech)**
-
-**Computer Science and Engineering**
-
-📌 Data Analytics Enthusiast
-
-📌 Passionate about Business Intelligence, Machine Learning, SQL, and Data Visualization.
-
----
-
-# 🙏 Acknowledgements
-
-I sincerely thank **ApexPlanet Software Pvt. Ltd.** for providing the opportunity to participate in the **45-Day Data Analytics Internship**.
-
-This internship offered valuable hands-on experience in:
-
-- Data Cleaning
-- SQL
-- Business Intelligence
-- Dashboard Development
-- Statistical Analysis
-- Machine Learning
-- Data Visualization
-- Business Reporting
-
-The project significantly enhanced my practical understanding of solving real-world business problems using data-driven approaches.
-
----
-
-# 📄 License
-
-This project is licensed under the **MIT License**.
-
-See the **LICENSE** file for complete details.
-
----
-
-# ⭐ Support
-
-If you found this project useful or informative:
-
-⭐ Star this repository on GitHub.
-
-🍴 Fork the repository to build upon it.
-
-📢 Share it with others interested in Data Analytics and Business Intelligence.
-
----
-
-<div align="center">
-
-## ⭐ Thank You for Visiting! ⭐
+## Garv Sehrawat 
 
 ### If you like this project, don't forget to give it a ⭐ on GitHub.
 
