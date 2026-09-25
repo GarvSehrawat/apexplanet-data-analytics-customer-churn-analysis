@@ -773,8 +773,4 @@ The project also showcases practical experience with modern data analytics tools
 
 ## Garv Sehrawat 
 
-### If you like this project, don't forget to give it a ⭐ on GitHub.
-
-**Happy Learning! 🚀**
-
 </div>
